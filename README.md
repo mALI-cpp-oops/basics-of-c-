@@ -1,5 +1,6 @@
 # basics-of-cpp-
-This is a repository which includes some programs of c++(ali)
+Author-M.Ali
+This is my first repository which includes some programs of c++
 <br>
 •	Display the message “Hello, World!” on the screen.
 <br>
